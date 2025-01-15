@@ -17,5 +17,5 @@ E-book sobre estatística criado com AI.
 - Imagens geradas via Copilot
   
 # 📚 Materiais
-- Imagens utilizadas em  **assets**
-- E-Book gerado em **output**
+- Imagens utilizadas em  [**Imagens**](https://github.com/CarlosABC29/prompt-ebook-estatistica-ia/tree/main/imagens)
+- E-Book gerado em [**Arquivos**](https://github.com/CarlosABC29/prompt-ebook-estatistica-ia/tree/main/arquivos)
