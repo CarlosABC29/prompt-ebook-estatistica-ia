@@ -1,12 +1,14 @@
 # prompt-ebook-estatistica-ia
-E-book sobre estatística criado com AI.
+E-book sobre estatística para leigos criado com I.A. e diagramado pelo humano aqui ;)
 
-# Tecnologias utilizadas no projeto
+- 📕 [Clique AQUI para ler o E-Book](https://github.com/CarlosABC29/prompt-ebook-estatistica-ia/blob/main/arquivos/E-book_Estatistica.pdf)
+
+# 💻 Tecnologias utilizadas no projeto
 - ChatGPT 
 - Copilot 
 - PowerPoint 
 
-# Prompts
+# 🧠 Prompts
 
 - **Conteúdo - ChatGPT**: Atue como um professor. Crie um e-book de 10 páginas, sobre estatística para análise de dados para leigos, com linguagem simples e que seja completo, com exemplos a cada tópico.
   
